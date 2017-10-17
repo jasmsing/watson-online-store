@@ -40,7 +40,7 @@ Want to take your Watson app to the next level? Looking to leverage Watson Brand
 > There is no web UI (only Slack), so don't use the ``View app`` button to see the app. Use the Bluemix dashboard to find and manage the app. Use your Slack UI to chat.
 
 
-[![Deploy to Bluemix](https://metrics-tracker.mybluemix.net/stats/5fd641e32af04e4adb16f26c46de3587/button.svg)](https://local.dev-console.stage1.bluemix.net:3100/devops/setup/deploy?repository=https://github.com/IBM/watson-online-store&cm_mmc=github-code-_-native-_-retailchatbot-_-deploy2bluemix)
+[![Deploy to Bluemix](https://metrics-tracker.mybluemix.net/stats/5fd641e32af04e4adb16f26c46de3587/button.svg)](https://local.dev-console.stage1.bluemix.net:3100/devops/setup/deploy?ui_version=v6&repository=https://github.com/IBM/watson-online-store&cm_mmc=github-code-_-native-_-retailchatbot-_-deploy2bluemix)
 
 1. [Clone the repo](#1-clone-the-repo)
 2. [Create Bluemix services](#2-create-bluemix-services)
